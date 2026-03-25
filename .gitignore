@@ -1,0 +1,16 @@
+# Backup files
+*.bak
+
+# Simulation files
+*.vwf
+*.vcd
+*.log
+
+# Quartus generated files (optional)
+*.qpf
+*.qsf
+*.sof
+
+# OS
+.DS_Store
+Thumbs.db
